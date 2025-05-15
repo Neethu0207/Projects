@@ -1,1 +1,2 @@
-# Projects
+This project helps in finding a person has Heart Disease or not with the help of Machine Learning Techniques.It helps to detect and take early precautions which also helps in saving a life.
+Machine learning algorithms can effectively predict heart disease risk by analyzing patient data to identify patterns and predict potential risks.I have used many alogirths like support vector machine(SVM),Logistic Regression,Decision Learning,Random Forest etc.. to find the best one that gives me accurate predictions.i have collected the data from kaggle["https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset"]
